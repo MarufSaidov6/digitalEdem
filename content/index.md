@@ -1,8 +1,8 @@
 ---
-title: Example Title
+title: "Цифровой сад Саидова Маъруфа" 
 draft: false
-tags:
-  - example-tag
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+### Темы презентаций
+
+- [[Observability in shop | observability/Observability in shop]]
